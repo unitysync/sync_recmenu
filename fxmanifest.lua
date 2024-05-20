@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Sync'
+author 'unitysync'
 description 'Simple recording menu'
 version '1.0.0'
 
